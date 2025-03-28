@@ -6,7 +6,7 @@ import time, math
 from itertools import count
 from collections import namedtuple, defaultdict
 # from pain import NNUEAccumulator, MyNNUE
-from HalfKav2Yan import *
+from HalfKa_arch import *
 import re
 import itertools
 import torch
